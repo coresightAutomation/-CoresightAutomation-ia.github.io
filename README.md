@@ -1,1 +1,1 @@
-# coresightautomation-ia.github.io
+# coresightautomation.github.io
